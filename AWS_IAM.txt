@@ -1,0 +1,2 @@
+1. Basic Understanding of what is iam 
+2. practicle scenario of user,group,policies and roles
