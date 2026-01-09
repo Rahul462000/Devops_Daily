@@ -1,3 +1,5 @@
 1. what is vpc 
 2. components of vpc
 3.example of vpc
+4. How to create a vpc
+5. what is peering connection in vpc
