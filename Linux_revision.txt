@@ -1,2 +1,7 @@
 1. Linux folder structure
 2. virtualization in linux
+3. management linux services and troubleshoot
+4. Basic linux commands 
+    4.1 - Navigation and system information
+    4.2 - file nad directory operations
+    4.3 - Viewing and inspecting file contents
