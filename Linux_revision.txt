@@ -5,3 +5,6 @@
     4.1 - Navigation and system information
     4.2 - file nad directory operations
     4.3 - Viewing and inspecting file contents
+5. Searching and Finding
+    5.1 - grep command [global regular expression and print]
+    5.2 - find command and its types
