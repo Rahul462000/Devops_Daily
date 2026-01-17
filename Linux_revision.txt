@@ -9,3 +9,4 @@
     5.1 - grep command [global regular expression and print]
     5.2 - find command and its types
     5.3 awk command
+    5.4 - sed command
