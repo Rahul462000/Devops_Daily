@@ -4,3 +4,4 @@
  4. Bastion Host
  5. launch template for ec2
  6. user-data in ec2 instances
+ 7. AWS RDS (Relational database service)
