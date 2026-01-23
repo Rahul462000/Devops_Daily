@@ -2,4 +2,5 @@
  2. route53
  3. auto-load balancer
  4. Bastion Host
- 5. launch template fpr ec2
+ 5. launch template for ec2
+ 6. user-data in ec2 instances
