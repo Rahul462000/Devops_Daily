@@ -6,3 +6,4 @@
  6. user-data in ec2 instances
  7. AWS RDS (Relational database service)
  8. AWS s3
+ 9. AWS cloud formation template
